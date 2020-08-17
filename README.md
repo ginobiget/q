@@ -1,7 +1,7 @@
 arenas-ui
 这是一套基于react+typescript的ui组件库
 
-安装
+### 安装
 使用 npm 或 yarn 安装
 
 npm install arenas-ui --save
