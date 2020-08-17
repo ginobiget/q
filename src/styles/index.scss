@@ -1,0 +1,33 @@
+// 不需要写_，这是sass的一种写法，告诉sass这些样式不打包到css中，只能做导入，也是一种模块化
+
+// 按钮样式
+@import "../components/Button/style";
+
+// Alert样式
+@import "../components/Alert/style";
+
+// menu样式
+@import "../components/Menu/style";
+
+// tabs样式
+@import "../components/Tabs/style";
+
+// icon样式
+@import "../components/Icon/style";
+
+@import "../components/Transition/style";
+
+// input样式
+@import "../components/Input/style";
+
+// AutoComplete样式
+@import "../components/AutoComplete/style";
+
+// Upload样式
+@import "../components/Upload/style";
+
+// Progress样式
+@import "../components/Progress/style";
+
+// Message样式
+@import "../components/Message/style";
