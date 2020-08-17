@@ -12,7 +12,7 @@ yarn add arenas-ui
 ### 使用
 
 - 引入
-
+`
 引用样式
 ```javascript
 import 'arenas-ui/dist/index.css';
